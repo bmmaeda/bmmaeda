@@ -23,7 +23,7 @@
 
 <div align="left
   <a href="https://github.com/bmmaeda">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=bmmaeda&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=bmmaeda&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmaeda&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
