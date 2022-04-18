@@ -1,10 +1,10 @@
-<h3 align="center">Estudante de Marketing e Dados</h3>
+<h3 align="center">Estudante de Marketing e Inteligência de Negócios</h3>
 
-- 🔭 Atualmente estou trabalhando nos projetos do site [Dastratus](http://dastratus.com.br/)
+- 🔭 Atualmente estou trabalhando nos projetos do site [Dastratus](https://dastratus.com.br/)
 
-- 👯 Procuro colaborar em **Projetos de Marketing e Dados**
+- 👯 Procuro colaborar em **Projetos de Marketing e Análise de Dados**
 
-- 👨‍💻 Pode encontrar os meus projetos em [http://dastratus.com.br/](http://dastratus.com.br/)
+- 👨‍💻 Pode encontrar os meus projetos em [http://dastratus.com.br/](https://dastratus.com.br/)
 
 - 📫 Me encontre em **bruno@dastratus.com.br**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bruno-maeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-maeda" height="30" width="40" /></a>
 <a href="https://kaggle.com/brunommaeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brunommaeda" height="30" width="40" /></a>
-<a href="https://instagram.com/b_mmaeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_mmaeda" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas</h3>
