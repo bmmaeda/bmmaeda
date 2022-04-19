@@ -4,7 +4,7 @@
 
 - 👯 Procuro colaborar em **Projetos de Marketing e Análise de Dados**
 
-- 👨‍💻 Pode encontrar os meus projetos em [http://dastratus.com.br/](https://dastratus.com.br/)
+- 👨‍💻 Pode encontrar os meus projetos em [https://dastratus.com.br/](https://dastratus.com.br/)
 
 
 
