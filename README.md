@@ -1,4 +1,4 @@
-<h3 align="center">Estudante de Marketing e Inteligência de Negócios</h3>
+<h3 align="center">Aprendendo sobre Marketing e Negócios</h3>
 
 <br/>
 
