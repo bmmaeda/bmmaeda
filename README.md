@@ -27,8 +27,3 @@
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=bmmaeda&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
 </div> </br>
 
-<div align="left
-  <a href="https://github.com/bmmaeda">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmaeda&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
-
