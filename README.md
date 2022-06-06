@@ -11,7 +11,7 @@
 </br>
 <a href="https://www.linkedin.com/in/bruno-maeda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://dastratus.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-<a href="https://www.kaggle.com/brunommaeda" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
+
 
 
 <h3 align="left">Linguagens e Ferramentas</h3>
