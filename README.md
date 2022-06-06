@@ -1,4 +1,4 @@
-[![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/chart_plotly.png)](https://dastratus.com.br/)
+[![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/stratus_code.PNG)](https://dastratus.com.br/)
 <h3 align="center">Aprendendo sobre Marketing e Negócios</h3>
 
 <br/>
