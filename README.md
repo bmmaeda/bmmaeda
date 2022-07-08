@@ -1,5 +1,5 @@
 [![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/stratus_code.PNG)](https://dastratus.com.br/)
-<h3 align="center">Aprendendo sobre Marketing e Negócios</h3>
+<h3 align="center">Marketing e Business Intelligence</h3>
 
 <br/>
 
