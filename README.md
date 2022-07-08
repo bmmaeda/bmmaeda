@@ -3,9 +3,9 @@
 
 <br/>
 
-- 👯 Procuro colaborar em **Projetos de Marketing e Análise de Dados**
+- Procuro colaborar em **Projetos de Marketing e Análise de Dados**
 
-- 👨‍💻 Pode encontrar os meus projetos em [https://brasiot.com.br](https://brasiot.com.br)
+- 💻 Pode encontrar os meus projetos em [https://brasiot.com.br](https://brasiot.com.br)
 
 
 </br>
