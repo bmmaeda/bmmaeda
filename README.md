@@ -1,6 +1,4 @@
 [![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)](https://dastratus.com.br/)
-<h3 align="center">Marketing e Business Intelligence</h3>
-
 <br/>
 
 - Procuro colaborar em **Projetos de Marketing e Análise de Dados**
