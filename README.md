@@ -1,9 +1,8 @@
 [![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)](https://dastratus.com.br/)
 <br/>
 
-- Procuro colaborar em **Projetos de Marketing e Análise de Dados**
 
-- 💻 Pode encontrar os meus projetos em [https://brasiot.com.br](https://brasiot.com.br)
+- Você vai encontrar os meus projetos em [https://brasiot.com.br](https://brasiot.com.br)
 
 
 </br>
