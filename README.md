@@ -1,4 +1,4 @@
-[![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)]
+![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)
 <br/>
 
 
