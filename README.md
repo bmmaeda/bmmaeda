@@ -1,11 +1,5 @@
 ![Main](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)
-<br/>
-
-
-- Você vai encontrar os meus projetos em [https://brasiot.com.br](https://brasiot.com.br)
-
-
-</br>
+<br/></br>
 <a href="https://www.linkedin.com/in/bruno-maeda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://brasiot.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 
@@ -23,5 +17,16 @@ alt="python" width="40" height="40"/>
 </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-</p>
+<br/> 
+<br/> 
+<h3 align="left">Conheça meus outros projetos</h3>
+Visite o meu [site](https://brasiot.com.br) para saber mais sobre mim ou sobre outros projetos.
+<br/>
+<br/>
+© 2022 Bruno Maeda,
 
+<p align="center">
+    <a href="https://brasiot.com.br"><img src="https://raw.githubusercontent.com/bmmaeda/imersaods4/master/logo-dastratus-nw.png" align="center" width=100/></a>
+</p>
+<div align="center">
+</div>
