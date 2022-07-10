@@ -1,4 +1,4 @@
-![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)
+![Main](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)
 <br/>
 
 
@@ -14,8 +14,7 @@
 <h3 align="left">Linguagens e Ferramentas</h3>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 alt="python" width="40" height="40"/>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-alt="jupyter" width="40" height="40"/>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" class="filter-green" alt="jupyter" width="40" height="40"/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
