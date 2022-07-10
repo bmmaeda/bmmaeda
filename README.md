@@ -1,4 +1,4 @@
-[![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)](https://dastratus.com.br/)
+[![Bruno Maeda](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_profile.png)]
 <br/>
 
 
