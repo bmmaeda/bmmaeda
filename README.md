@@ -28,7 +28,7 @@ alt="python" width="40" height="40"/>
 © 2022 Bruno Maeda,
 
 <p align="center">
-    <a href="https://brasiot.com.br"><img src="https://raw.githubusercontent.com/bmmaeda/imersaods4/master/logo-dastratus-nw.png" align="center" width=100/></a>
+    <a href="https://dastratus.com.br/"><img src="https://raw.githubusercontent.com/bmmaeda/imersaods4/master/logo-dastratus-nw.png" align="center" width=100/></a>
 </p>
 <div align="center">
 </div>
