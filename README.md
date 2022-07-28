@@ -18,10 +18,9 @@ alt="python" width="40" height="40"/>
 </a>
 <br/> 
 <br/> 
-<h3 align="center">Conheça meus projetos</h3>
-  <p align="center">
-    Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.</p>
+    <h3 align="left">Conheça meus projetos</h3>
 <br/>
+    Visite <https://dastratus.com.br/> para saber mais sobre mim ou sobre outros projetos.
 <br/>
 © 2022 Bruno Maeda,
 
