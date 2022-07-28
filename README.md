@@ -21,7 +21,7 @@ alt="python" width="40" height="40"/>
 <br/> 
 <h3 align="left">Conheça meus projetos</h3>
 
-  Visite o meu [site](https://brasiot.com.br/) para saber mais sobre mim ou sobre outros projetos.
+  Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
 
 <br/>
 <br/>
