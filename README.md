@@ -18,10 +18,9 @@ alt="python" width="40" height="40"/>
 </a>
 <br/> 
 <br/> 
-<h3 align="left">Conheça meus projetos</h3>
-
-  Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
-
+<h3 align="center">Conheça meus projetos</h3>
+  <p align="center">
+    Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.</p>
 <br/>
 <br/>
 © 2022 Bruno Maeda,
@@ -29,5 +28,6 @@ alt="python" width="40" height="40"/>
 <p align="center">
     <a href="https://dastratus.com.br/"><img src="https://raw.githubusercontent.com/bmmaeda/imersaods4/master/logo-dastratus-nw.png" align="center" width=100/></a>
 </p>
+    
 <div align="center">
 </div>
