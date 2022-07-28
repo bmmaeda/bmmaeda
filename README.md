@@ -3,15 +3,7 @@
 <a href="https://www.linkedin.com/in/bruno-maeda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://dastratus.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <br/>
-
-
-Sobre o mim
-
-O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. 
-
-Essa análise foi dividida em 5(cinco) partes, cada uma delas constroe um pedaço do desafio, seja implementando uma nova ferramenta ou respondendo alguma hipótese ou pergunta. 
 <br/>
-
 <h3 align="left">Linguagens e Ferramentas</h3>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 alt="python" width="40" height="40"/>
