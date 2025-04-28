@@ -1,7 +1,6 @@
 ![Main](https://raw.githubusercontent.com/bmmaeda/bmmaeda/main/banner_.png)
 <br/></br>
 <a href="https://www.linkedin.com/in/bruno-maeda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://dastratus.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <br/>
 <br/>
 <h3 align="left">Linguagens e Ferramentas</h3>
@@ -16,18 +15,10 @@ alt="python" width="40" height="40"/>
 </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-<br/> 
-<br/> 
-    <h3 align="left">Conheça meus projetos</h3>
-    
-Visite meu [site](https://dastratus.com.br/) para saber mais sobre mim ou outros projetos.
-    
+<br/>  
 <br/>   
-© 2022 Bruno Maeda,   
+© 2025 Bruno Maeda,   
 <br/>
-<p align="center">
-    <a href="https://dastratus.com.br/"><img src="https://raw.githubusercontent.com/bmmaeda/imersaods4/master/logo-dastratus-nw.png" align="center" width=100/></a>
-</p>
     
 <div align="center">
 </div>
